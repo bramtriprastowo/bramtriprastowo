@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! I'm Bramono Triprastowo 
 
 ### Languages and Tools
 
