@@ -1,4 +1,8 @@
-### 👋 Hi there! I'm Bramono Triprastowo 
+### 👋 Hi there! I'm Bramono Triprastowo
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bramono-triprastowo/)](https://www.linkedin.com/in/bramono-triprastowo/)
+
+:computer: I'm a software engineer. Currently learning Typescript and Golang</br>
 
 ### Languages and Tools
 
